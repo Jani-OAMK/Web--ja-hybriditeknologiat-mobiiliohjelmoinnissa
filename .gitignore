@@ -3,6 +3,7 @@
 # not needed
 .idea/
 .tsupgrader/
+.claude/
 
 # dependencies
 node_modules/
